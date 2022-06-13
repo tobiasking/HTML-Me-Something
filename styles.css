@@ -16,7 +16,7 @@
     margin-right: auto;
     width: 50%;
   }
-.mainHeading {
+#mainHeading {
     color: red;
 }
 .funParagraph {
