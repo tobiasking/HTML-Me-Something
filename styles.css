@@ -1,1 +1,27 @@
-/* Write your CSS here! */
+  html {
+    background-color: lightgoldenrodyellow
+  }
+  body {
+    padding: 25px 50px 75px;
+    margin: 8px;
+    display: block;
+    border: 1px solid blue;
+  }
+  h2 {
+    background-color: lightblue;
+  }
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+.mainHeading {
+    color: red;
+}
+.funParagraph {
+    color: green;
+}
+#testP {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
